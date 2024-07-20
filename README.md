@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Londa-LG/Londa-LG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm someone who loves solving problems (especially if solving that problem involves make something) and I've found there's no better place to do that than in sofware development, where problems are solved by making apps.
+
+I'm currently on the lookout for a role in backend web development, ideally writing python (though I've dabbled in the ways of javascript) I'd especially love it if said role was with a startup team where I can make an impact quickly.
+
+If you're hiring, my email is open, let's chat.
